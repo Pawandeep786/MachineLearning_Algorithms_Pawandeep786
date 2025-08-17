@@ -1,0 +1,2 @@
+# MachineLearning_Algorithms_Pawandeep786
+Python scripts implementing five machine learning algorithms
